@@ -1220,7 +1220,8 @@
 			"website": "impresspages.org",
 			"cats": [ 1 ],
 			"meta": { "generator": "ImpressPages CMS ([\\d.]+)\\;version:\\1" },
-			"implies": "PHP"
+			"script": "Ip/Internal",
+			"implies": [ "PHP", "jQuery" ]
 		},
 		"Incapsula": {
 			"website": "www.incapsula.com",
